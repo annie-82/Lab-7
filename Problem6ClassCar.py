@@ -1,3 +1,9 @@
+'''
+THIS IS NOT THE QUESTION IN THE LAB ASSIGNMENT 7
+'''
+
+
+
 #Syed Hussain
 #08/20/2022
 #Problem number 6 - Modifying the following code with the Python Class ‘car'
